@@ -22,7 +22,7 @@ int main() {
         std::cout << "The largest number is: " << largest(a, b, c) << std::endl;
         sorting(a, b, c);
     } else {
-        std::cout << "The numbers are not unique." << std::endl;
+        std::cout << "The numbers are not unique!" << std::endl;
     }
 
     return 0;
